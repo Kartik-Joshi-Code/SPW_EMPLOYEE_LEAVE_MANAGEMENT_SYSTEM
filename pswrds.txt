@@ -1,7 +1,7 @@
 USER / EMPLOYEE
-Email id : johnny@gmail.com
-Passowrd : Test@123
-Empid : EMP10806121 (in case of password recovery)
+Email id : liam@gmail.com
+Passowrd : liam@123
+Empid : 1q1q1q (in case of password recovery)
 
 ADMIN
 For admin login click on the admin login then provide username and password
