@@ -22,7 +22,7 @@ $msg="Your Password succesfully changed";
     <head>
         
         <!-- Title -->
-        <title>ELMS | Password Recovery</title>
+        <title>SPW_Password_Recovery</title>
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <meta charset="UTF-8">
@@ -111,7 +111,7 @@ $msg="Your Password succesfully changed";
                             </a>
                         </section>
                         <div class="header-title col s3">      
-                            <span class="chapter-title">ELMS | Employee Leave Management System</span>
+                            <span class="chapter-title">SPW_ELMS</span>
                         </div>
                       
                            
@@ -135,12 +135,7 @@ $msg="Your Password succesfully changed";
                        <li class="no-padding"><a class="waves-effect waves-grey" href="admin/"><i class="material-icons">account_box</i>Admin Login</a></li>
                 
                 </ul>
-          <div class="footer">
-                    <p class="copyright"><a href="http://phpgurukul.com/">PHPGURUKUL </a>©</p>
-                
-                </div>
-                </div>
-            </aside>
+                      </aside>
             <main class="mn-inner">
                 <div class="row">
                     <div class="col s12">
