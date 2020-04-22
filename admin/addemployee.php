@@ -250,7 +250,8 @@ foreach($results as $result)
                                                             
 <div class="input-field col s12">
 <label for="phone">Mobile number</label>
-<input id="phone" name="mobileno" type="tel" maxlength="10" autocomplete="off" required>
+<input id="phone" name="mobileno" type="number" maxlength="10" autocomplete="off" pattern="^[0-9]{10}$" required>
+
  </div>
 
                                                         

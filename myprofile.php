@@ -43,7 +43,7 @@ $msg="Employee record updated Successfully";
     <head>
         
         <!-- Title -->
-        <title>Admin | Update Employee</title>
+        <title>Employee | Update info</title>
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <meta charset="UTF-8">
@@ -88,7 +88,7 @@ $msg="Employee record updated Successfully";
    <main class="mn-inner">
                 <div class="row">
                     <div class="col s12">
-                        <div class="page-title">Update employee</div>
+                        <div class="page-title">Update info</div>
                     </div>
                     <div class="col s12 m12 l12">
                         <div class="card">
@@ -143,7 +143,7 @@ input.value = input.value.replace(regex, "");
 </script>
 <div class="input-field col s12">
 <label for="phone">Mobile number</label>
-<input id="phone" name="mobileno" type="number" value="<?php echo htmlentities($result->Phonenumber);?>" minlength="09" maxlength="10" autocomplete="off"  required>
+<input id="phone" name="mobileno" type="number" value="<?php echo htmlentities($result->Phonenumber);?>" minlength="09" maxlength="10" autocomplete="off" pattern="^[0-9]{10}$" required>
  </div>
 
 </div>
