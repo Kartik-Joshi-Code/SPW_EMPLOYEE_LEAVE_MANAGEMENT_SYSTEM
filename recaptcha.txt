@@ -1,4 +1,0 @@
-site key- 6LfcqewUAAAAAC8loCwYBuO8C3BdwEbG4AB2iHBH
-
-
-secret key- 6LfcqewUAAAAAFOf8BKN5nmBqXolxG0-LbyzJXYa
